@@ -1,0 +1,5 @@
+matplotlib
+chainer
+sklearn
+scipy
+numpy
